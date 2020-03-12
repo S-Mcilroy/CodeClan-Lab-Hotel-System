@@ -5,17 +5,17 @@ db.dropDatabase();
 db.bookings.insertMany([
   {
     name: "Jack Portwood",
-    email: "Na$TY_jack_420_6969@gmail.com",
+    email: "JackP1990@gmail.com",
     checked: true
   },
   {
     name: "Emma Roberts",
-    email: "Where_all_the_dogs_at??@aol.com",
+    email: "E.Roberts@aol.com",
     checked: false
   },
   {
     name: "Kevin Archer",
-    email: "little_kev_420@gmail.com",
+    email: "Kev_Archer_20@gmail.com",
     checked: true
   }
 
